@@ -12,7 +12,7 @@
 
 <br>
 <div align=center >
- ### Now Playing - Spotify 🎧
+     Now Playing - Spotify 🎧
 <p>
  <a href="[https://spotify-github-profile.vercel.app/api/view.svg?uid=jeffhuria&redirect=true">
    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=jeffhuria&cover_image=true&theme=natemoo-re&bar_color_cover=false&bar_color=53b14f"/>
